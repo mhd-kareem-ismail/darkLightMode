@@ -1,4 +1,5 @@
 /* root is for light mode */
+/*This css designed for mobile first and we have below media qyery for screens more than 1440px*/
 :root {
   --bg-color: #f4f7fc;
   --text-color: #2c2c2c;
